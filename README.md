@@ -20,7 +20,9 @@ Currently strengthening my **DSA and system design** skills while building real-
 ## 📂 Featured Work
 - **Clinical Assessment Management System**  
   Secure backend with Spring Security, JWT, and role-based access control
+  
   Developed core features of Ailment processing
+  
   Implemented pagination, sorting, and filtering for assessment records to follow standard API practices and improve performance and usability for frontend integration.
 
 - **Courier Tracking System**  
