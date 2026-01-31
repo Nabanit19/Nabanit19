@@ -18,15 +18,20 @@ Currently strengthening my **DSA and system design** skills while building real-
 ---
 
 ## 📂 Featured Work
-- **Clinical Assessment Management System**  
-  Secure backend with Spring Security, JWT, and role-based access control
-  
-  Developed core features of Ailment processing
-  
-  Implemented pagination, sorting, and filtering for assessment records to follow standard API practices and improve performance and usability for frontend integration.
 
-- **Courier Tracking System**  
-  Integrated third-party APIs (OpenStreetMap / Nominatim) for real-time tracking
+**Clinical Assessment Management System**
+- Built a secure backend using Spring Boot, Spring Security, JWT, and role-based access control.
+- Developed core modules for clinical assessment and ailment processing.
+- Implemented pagination, sorting, and filtering to create efficient, standard APIs and improve frontend data handling.
+- Improved API structure and response handling to support scalable frontend integration.
+- Created and maintained API documentation for frontend and integration teams.
+
+**Courier Tracking System**
+- Developed the end-to-end courier tracking module, integrating OpenStreetMap / Nominatim APIs for real-time shipment tracking.
+- Designed, enhanced, and maintained tracking-related APIs as features expanded.
+- Updated APIs to support new tracking workflows and client requirements.
+- Maintained API documentation for seamless frontend and third-party integration.
+
 
 ---
 
